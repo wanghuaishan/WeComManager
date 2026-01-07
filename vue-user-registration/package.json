@@ -1,0 +1,20 @@
+{
+  "name": "vue-user-registration",
+  "version": "1.0.0",
+  "description": "A Vue.js project for user registration.",
+  "main": "src/main.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.5.26"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0",
+    "@vitejs/plugin-vue": "^4.0.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
