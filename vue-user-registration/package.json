@@ -12,9 +12,13 @@
     "vue": "^3.5.26"
   },
   "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "eslint-define-config": "^2.1.0",
+    "eslint-plugin-vue": "^10.6.2",
     "vite": "^4.0.0",
-    "@vitejs/plugin-vue": "^4.0.0"
+    "vue-eslint-parser": "^10.2.0"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
